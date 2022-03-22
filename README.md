@@ -1,4 +1,4 @@
-## simple project. Vuejs for Laravel
+## simple project. Vuejs jwt Laravel
 
 ## deploy local:
 
